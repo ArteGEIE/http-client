@@ -1,5 +1,5 @@
 {
-    "name": "symfony/http-client",
+    "name": "arte/symfony-http-client",
     "type": "library",
     "description": "Provides powerful methods to fetch HTTP resources synchronously or asynchronously",
     "homepage": "https://symfony.com",
